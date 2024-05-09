@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Aula de revisão: HTML e CSS</title>
+</head>
+<body>
+    <header>
+        <h1>Formulário com HTML semântico</h1>
+ </header>
+
+ <main>
+<article> 
+    
+    <figure>
+        <img
+        src="https://cdn-icons-png.flaticon.com/512/4519/4519678.png"
+        width="250"
+        height="250" />
+       </figure>
+
+    <table border="1">
+    <tr>
+        <td>Nome</td>
+        <td><input id='nome' type="text" placeholder="Digite seu nome"></td>
+    </tr>
+    <tr>
+        <td>Endereço</td>
+        <td><input id='endereco' type="text" placeholder="Digite seu CEP"></td>
+    </tr>
+    <tr>
+        <td>Telefone</td>
+        <td><input id='tel' type="text" placeholder="Digite seu telefone"></td>
+    </tr>
+    <script>
+        function enviado(){
+            document.write("Informações enviadas");
+        }
+        </script>
+
+<button name="cent" onClick="enviado()"> Enviar</button>
+
+</article>
+    
+ </main> 
+       
+<!-- <header>
+    <h1> Formulário </h1>
+</header>
+
+<main>
+<form>
+    <label for= "name"> Nome: </label><input type= "text" id="name" name="user_name">
+    <label for= "endereco"> Endereço: </label><input type= "text" id="endereco" name="user_endereco">
+    <label for= "telefone"> Telefone:</label>  <input type= "text" id="telefone" name="user_telefone">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*NjJoYvshr5Jyj4HMu0aXnA.jpeg" 
+    alt= "imagemSemantica" 
+    width="300" 
+    height="300"/>
+    <button type= "submit"> Enviar </button>
+</form>
+</main>-->   
+
+
+</body>
+</html>

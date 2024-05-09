@@ -1,0 +1,84 @@
+    #cabecalho{
+        background-color: #272727;
+        width: 50%;
+        color: white;
+        text-align: center;
+    }
+
+    #rodape{
+        width:  50%;
+        background-color: #272727;
+        color: white;
+        text-align: center;
+    }
+
+    .sessao_conteudo{
+        text-align: center;
+        width:  50%;
+        background-color: rgb(58, 172, 172);
+    }
+
+
+
+
+
+
+/*1.Alteração de Cor de Fundo:
+Crie uma página HTML simples com um elemento <div> e altere a cor de fundo desse elemento usando CSS.
+
+2.Estilizando Texto:
+Crie um parágrafo e aplique estilos como cor, tamanho da fonte e família da fonte usando CSS.
+
+3.Estilizando Títulos:
+Crie diferentes títulos (h1, h2, h3, etc.) e aplique estilos como cor, tamanho da fonte e estilo da fonte usando CSS.
+
+4.Adicionando Borda:
+Adicione uma borda a um elemento HTML, como uma <div>, e personalize sua cor, largura e estilo.
+
+5.Espaçamento Interno e Externo:
+Experimente a propriedade de espaçamento interno (padding) e externo (margin) em um elemento e observe como ela afeta o layout.
+
+6.Alinhamento de Texto:
+Experimente diferentes valores para a propriedade text-align em um parágrafo para alterar o alinhamento do texto.
+
+7.Centralizando Elementos:
+Utilize técnicas de centralização para centralizar um elemento horizontalmente e verticalmente na página.
+
+8.Estilizando Listas:
+Estilize uma lista não ordenada (<ul>) ou ordenada (<ol>) com diferentes propriedades CSS, como tipo de marcador, recuo e estilo de lista.
+
+9.Estilizando Links:
+Aplique estilos aos links (<a>) para alterar a cor, o sublinhado e o efeito de hover.
+
+10.Estilizando Botões:
+Crie um botão usando um elemento <button> ou <input type="button"> e estilize-o com CSS.
+
+11.Estilizando Imagens:
+Adicione estilos a uma imagem, como largura, altura, margem e borda.
+
+12.Criando um Menu de Navegação Horizontal:
+Crie um menu de navegação horizontal utilizando uma lista <ul> e estilize os itens do menu para que fiquem lado a lado. 
+
+13.Estilizando Formulários:
+Estilize os elementos de um formulário, como campos de entrada de texto, caixas de seleção e botões de envio.
+
+14.Criando Caixas de Destaque:
+Crie caixas de destaque usando a propriedade box-shadow para adicionar sombras a elementos HTML.
+
+15.Estilizando Tabelas:
+Estilize os elementos de uma tabela, como bordas, espaçamento de células e cores de fundo.
+
+16.Criando um Layout de Colunas:
+Crie um layout de colunas simples usando float ou flexbox.
+
+17.Adicionando Gradientes:
+Adicione um fundo gradiente a um elemento HTML usando a propriedade background.
+
+18.Estilizando Cabeçalhos de Página:
+Estilize os elementos de cabeçalho de uma página, como <header>, <nav>, <section> e <footer>, para criar uma aparência coesa.
+
+19.Adicionando Efeitos de Transição:
+Adicione efeitos de transição suaves a elementos HTML, como mudanças de cor ou tamanho ao passar o mouse sobre eles.
+
+20.Estilizando elementos hover:
+Altere a aparência de um elemento quando o mouse passa sobre ele usando a pseudo-classe :hover.*/

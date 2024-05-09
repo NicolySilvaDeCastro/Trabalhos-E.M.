@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding: 0;
+  }
+
+.arcoiris{
+    display: flex;
+    gap: 20px;
+    padding: 50px 30px;
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    }
+    
+.arcoiris{
+    transition: all 0.5s;
+    cursor: pointer;
+  }
+  
+.arcoiris:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+  }
+
+
+@media screen and (max-width: 600px) {
+.arcoiris{
+        transition: all 0.5s;
+        cursor: pointer;
+      }
+      
+.arcoiris:hover{
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+      }
+    
+.arcoiris{
+    display: flex;
+    gap: 20px;
+    padding: 50px 30px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+        
+        }    
+
+    
+
+}

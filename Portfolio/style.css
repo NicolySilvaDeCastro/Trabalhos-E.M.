@@ -1,0 +1,133 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+  
+body {
+    width: 100vw;
+    height: 100vh;
+}
+  
+  
+.one {
+   
+    width: 100vw;
+    height: 100vh;
+    background-color: #1b1b1b;   
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 10px 10px;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.two {
+    width: 100vw;
+    height: 200vh;
+    background-color: #1b1b1b;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    margin: 10px 5px;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.three {
+
+    background-color: #1b1b1b;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 10px 5px;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  
+.nav {
+    width: 100vw;
+    height: 40vh;
+    background-color: #1b1b1b;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 10px 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    place-items: center;
+}
+  
+.btn {
+    color: white;
+    background-color: #1b1b1b;
+    height: 40px;
+    width: 90px;
+    padding: 2px;
+    border: 2px solid rgb(255, 255, 255);
+    text-decoration: none;
+}
+.secao1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 50px;
+}
+
+.secao1 img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.secao1 img:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.botao1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+}
+
+.secao2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 50px;
+}
+
+.secao2 img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.secao2 img:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.botao2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+}

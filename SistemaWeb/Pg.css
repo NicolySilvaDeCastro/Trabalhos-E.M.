@@ -1,0 +1,41 @@
+.header{
+    /* Header/Logo Title */
+    padding: 20px;
+    text-align: center;
+    background: black;
+    font-size: 30px;
+  
+  }
+  
+  
+  
+  .meio{
+    padding: 1px;
+    text-align: center;
+    background: rgb(31, 31, 31);
+    color: white;
+    font-size: 10px;
+  }
+  
+  #footer{
+    text-align: center;
+    background: black;
+    text-decoration: white;
+    font-size: 10px;
+  }
+  /*
+  
+  body {
+      background-color: rgb(247, 247, 247);
+      color: rgb(2, 0, 102);
+      font-size: 48px;
+  }
+  .geral {
+  
+      text-align: left;
+  }
+  
+  .radios {
+      text-align: justify;
+      margin-left: 42%;
+  }

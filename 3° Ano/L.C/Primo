@@ -1,0 +1,9 @@
+function Primo(numero){
+    if(numero%2 === 0||numero%3 === 0|| numero%5 ===0){
+        return "Não é primo"
+    }
+    else{
+        return "É primo"
+    }
+}
+console.log(Primo(7))

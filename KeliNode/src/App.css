@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+Header{
+width: 100vw;
+background-color: rgb(160,54,56);
+padding: 20px 60px;
+}
+
+Header h1{
+  color: white;
+  font-size: 18px;
+}
+
+.Galeria{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 50px;
+  padding:50px;
+  justify-content: space-around;
+  background-color: rgb(0, 0, 0);
+}
+
+.Galeria img{
+  width: 300px;
+  height: 300px;
+}

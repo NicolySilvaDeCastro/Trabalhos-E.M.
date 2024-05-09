@@ -1,0 +1,87 @@
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+          
+        body {
+            width: 100vw;
+            height: 100vh;
+        }
+          
+          
+        .one {
+           
+            width: 100vw;
+            height: 100vh;
+            background-color: #ffffff;   
+            color: rgb(0, 0, 0);
+            text-align: center;
+            margin: 10px 5px;
+            font-size: 40px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .two {
+            width: 100vw;
+            height: 100vh;
+            background-color: #000000;
+            font-size: 50px;
+            color: white;
+            text-align: center;
+            margin: 10px 5px;
+            font-size: 40px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .three {
+            width: 100vw;
+            height: 100vh;
+            background-color: #ffffff;
+            font-size: 50px;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            margin: 10px 5px;
+            font-size: 40px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .four {
+            width: 100vw;
+            height: 100vh;
+            background-color: #000000;
+            font-size: 50px;
+            color: white;
+            text-align: center;
+            margin: 10px 5px;
+            font-size: 40px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+          
+        .nav {
+            width: 100vw;
+            height: 40vh;
+            background-color: #000000;
+            font-size: x-large;
+            color: rgb(0, 0, 0);
+            text-align: center;
+            margin: 10px 5px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            place-items: center;
+        }
+          
+        .btn {
+            color: white;
+            background-color: #000000;
+            height: 40px;
+            width: 90px;
+            padding: 2px;
+            border: 2px solid rgb(255, 255, 255);
+            text-decoration: none;
+        }
+  
+
+
+
+
+
+
