@@ -1,0 +1,18 @@
+-- alter table usuario 
+-- add column endereco varchar(100)
+
+-- CREATE TABLE usuario(
+-- id_user serial primary key,
+-- nome_completo varchar(200),
+-- login varchar(50),
+-- email varchar(100),
+-- cpf varchar (11)
+-- );
+-- CREATE TABLE senha(
+-- id_senha serial primary key,
+-- id_user int,
+-- senha varchar(15),
+-- foreign key(id_user) references usuario(id_user)	
+-- );
+-- drop table senha
+-- select * from usuario
